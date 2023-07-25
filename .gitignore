@@ -1,3 +1,9 @@
+# Cache
+*.pyc
+
+# The Pipfile
+Pipfile
+Pipfile.lock
 
 # Local Data
 db.sqlite3
