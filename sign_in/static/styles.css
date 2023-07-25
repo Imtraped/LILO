@@ -14,9 +14,11 @@ h1{
 }
 
 .a-tag {
-color: black;
+color: #bfa9a0;
 }
 
 .a-tag:hover {
 color: white;
 }
+
+/* So, django uses 64-bits */
