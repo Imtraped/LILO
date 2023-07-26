@@ -4,3 +4,6 @@ Pipfile.lock
 
 # Local Data
 db.sqlite3
+
+# Python Cache
+*.pyc
