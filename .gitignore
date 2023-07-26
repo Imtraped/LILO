@@ -6,4 +6,4 @@ Pipfile
 Pipfile.lock
 
 # Local Data
-*.sqlite3
+db.sqlite3
